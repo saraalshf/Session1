@@ -17,3 +17,8 @@ print("4", end="\n\n\n")
 print("5")
 
 print("this was added after first commit") #now file is blue means there is a new change, its good (after committing)
+# u can do git on top and commit or commit on th eleft the line and dot.
+#commit means ur submitting into the local repository. now next step is to put it into git
+#u press git, then open github and REMOVE private so that the professor can see ur work
+#git push to put another commit, and itll automatically show the difference. BUT REMEMBER do the commit part again first.
+
