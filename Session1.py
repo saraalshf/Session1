@@ -16,3 +16,4 @@ print("3", end= "!!")
 print("4", end="\n\n\n")
 print("5")
 
+print("this was added after first commit") #now file is blue means there is a new change, its good (after committing)
