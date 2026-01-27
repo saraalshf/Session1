@@ -24,3 +24,5 @@ print("this was added after first commit") #now file is blue means there is a ne
 
 #Homework
 print("first homeowrk ever")
+print("this is dope")
+print("hola")
